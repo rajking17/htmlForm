@@ -1,0 +1,32 @@
+.forms{
+    width: 50%;
+    margin: 0 auto;
+    background: #dddddd;
+    padding: 30px;
+}
+
+.table{}
+.table thead tr th:first-child, .table tbody tr td:first-child{
+    width: 10%;
+}
+.table thead tr th:nth-child(2), .table tbody tr td:nth-child(2){
+    width: 10%;
+}
+.table thead tr th:nth-child(3), .table tbody tr td:nth-child(3){
+    width: 25%;
+}
+.table thead tr th:nth-child(4), .table tbody tr td:nth-child(4){
+    width: 10%;
+}
+.table thead tr th:nth-child(5), .table tbody tr td:nth-child(5){
+    width: 10%;
+}
+.table thead tr th:nth-child(6), .table tbody tr td:nth-child(6){
+    width: 15%;
+}
+.table thead tr th:nth-child(7), .table tbody tr td:nth-child(7){
+    width: 10%;
+}
+.table thead tr th:nth-child(8), .table tbody tr td:nth-child(8){
+    width: 10%;
+}
